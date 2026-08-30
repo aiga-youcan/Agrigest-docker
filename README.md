@@ -225,7 +225,7 @@ Le Seeder crée automatiquement plusieurs parcelles fictives pour faciliter les 
 
 ## Auteur
 
-**Dounia EL GHAZI**
+**RIDA SABRAR**
 
 Développeuse Full Stack Junior
 
